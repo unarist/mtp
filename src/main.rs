@@ -1,3 +1,7 @@
 fn main() {
-    println!("Hello, world!");
+    // StorageDevice.GetDeviceSelector()
+    // DeviceInformation.FindAllAsync / DevicePicker -> DeviceInformation
+    // StorageDevice.FromId -> StorageFolder
+    // CreateFileQuery + StorageFileQueryResult#GetFilesAsyncRange / etc. -> StorageFile
+    // StorageFile#CopyAsync
 }
